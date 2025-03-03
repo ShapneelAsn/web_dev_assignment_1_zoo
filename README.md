@@ -2,6 +2,9 @@
 
 This repository is the starter code for Assignment 1 - Zoo.
 
+### Link to website:
+(https://shapneelasn.github.io/web_dev_assignment_1_zoo/)
+
 ### Live Link
 [Website link](https://johnnylaicode.github.io/zoo-starter-code/)
 
