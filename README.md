@@ -2,6 +2,8 @@
 
 This repository is the starter code for Assignment 1 - Zoo.
 
+## Worked on Solo, by Shapneel Ahsan
+
 ### Link to website:
 (https://shapneelasn.github.io/web_dev_assignment_1_zoo/)
 
